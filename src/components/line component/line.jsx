@@ -1,13 +1,10 @@
 import "./line.css";
+import LineImg from "../../assets/Rectangle (1).png";
 
 function Line() {
   return (
     <>
-      <img
-        className="img_line"
-        src="./src/assets/Rectangle (1).png"
-        alt="line"
-      />
+      <img className="img_line" src={LineImg} alt="line" />
     </>
   );
 }
