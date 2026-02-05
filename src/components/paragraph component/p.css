@@ -1,0 +1,14 @@
+.p_paragraph {
+  max-width: 302px;
+  width: 100%;
+  font-size: 18px;
+  line-height: 26px;
+  font-weight: 300;
+  color: #8bacd9;
+}
+
+@media (max-width: 370px) {
+  .p_time {
+    font-size: 12px;
+  }
+}
