@@ -4,3 +4,8 @@
   line-height: 100%;
   color: white;
 }
+
+.h1_text:hover {
+  color: #00fff8;
+  cursor: pointer;
+}
